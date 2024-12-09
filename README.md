@@ -8,9 +8,19 @@ Recréer la fonction "printf" <br>
 Comme le savent les personnes à Epitech, le projet est corrigé par la moulinette, voici les résultats : <br>
 Prérequis remplis : 
 <br><br>
-- Global : ?% <br>
-- Image Poll : ?% <br>
-- Image Result : ?% <br>
+- Base tests : 100% <br>
+- Easy tests : 58.3% <br>
+- Medium tests : 83.3% <br>
+- Hard tests : 0% <br>
+- Easy format tests : 0% <br>
+- Medium format tests : 0% <br>
+- Hard format tests : 0% <br>
+- Easy tests final : 66.7% <br>
+- Medium tests final : 83.3% <br>
+- Easy format tests final : 0% <br>
+- Medium format tests final : 0% <br>
+- Hard format tests final : 0% <br>
+- ✔️ TOTAL : 35.9% <br>
 <br>
 
 >[!IMPORTANT]
